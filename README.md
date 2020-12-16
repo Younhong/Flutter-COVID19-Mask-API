@@ -3,4 +3,4 @@
 # View number of masks nearby
 
 # Result
-![Result](asset/result.png)
+<img src="asset/result.png" width="50%">
